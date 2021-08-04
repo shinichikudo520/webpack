@@ -1,0 +1,17 @@
+{
+  "name": "webpackpackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^3.6.0"
+  }
+}
